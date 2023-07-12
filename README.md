@@ -82,16 +82,16 @@ Before running the script, make sure to replace 'Your Open AI key' with your act
 
 ## Dependencies
 Before running the code, make sure that you have the following dependencies installed:
-openai
-nltk
-biopython
-spaCy
-pandas
-requests
-matplotlib
-python-docx
+openai,
+nltk,
+biopython,
+spaCy,
+pandas,
+requests,
+matplotlib,
+python-docx,
 
 For the NLP task, it uses the following spaCy models:
-en_ner_bionlp13cg_md
-en_ner_bc5cdr_md
-en_ner_craft_md
+en_ner_bionlp13cg_md,
+en_ner_bc5cdr_md,
+en_ner_craft_md,
