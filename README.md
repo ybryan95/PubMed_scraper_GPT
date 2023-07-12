@@ -1,6 +1,7 @@
 # PubMed Abstract Analysis and Report Generation
 
 This code is a powerful tool developed to automate the process of finding, analyzing, and documenting biomedical research papers from PubMed with a focus on specific genes and conditions such as Autism. It utilizes the power of the Natural Language Processing (NLP) model GPT-4 by OpenAI and biomedical NLP libraries from spaCy to search, analyze and present results in a comprehensive way.
+Note: This is an improved version of (https://github.com/ybryan95/PubMed_scraper_GPT) that incorporates the GPT model and requires an openAI key to operate. If you want to stick to the free version, go to the link provided.  (https://github.com/ybryan95/PubMed_scraper_GPT)
 
 ## Table of Contents
 
