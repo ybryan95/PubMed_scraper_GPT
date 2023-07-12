@@ -61,15 +61,15 @@ Wordcloud: An image of a word cloud representing the frequency of terms in the a
 
 You can find the sample output.docx on this GitHub.
 
-gene_fullName()
+* gene_fullName():
 This function takes the gene abbreviation and returns the full gene name using the MyGene.info API.
-gene_to_search()
+* gene_to_search():
 It takes a gene and its full name as inputs and creates two search queries to be used in PubMed.
-search_Query_GPT()
+* search_Query_GPT():
 For each query, it fetches articles from PubMed and analyzes them to see if they should be included in the results.
-article_Interest()
+* article_Interest():
 It determines whether an article should be included in the final results based on the sentiment of the OpenAI's response.
-generate_wordcloud()
+* generate_wordcloud():
 It generates a word cloud image for the abstract of the included articles.
 
 ## Wordcloud
