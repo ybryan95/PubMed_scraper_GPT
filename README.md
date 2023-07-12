@@ -22,7 +22,7 @@ The scripts in this repository utilize various Python libraries including:
 - OpenAI's GPT: For context-based analysis.
 - matplotlib: For data visualization.
 
-You can install all these libraries using pip:
+You can install all these libraries using pip (example below):
 
 ```bash
 pip install biopython nltk pandas openai matplotlib
