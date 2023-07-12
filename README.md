@@ -26,6 +26,7 @@ You can install all these libraries using pip:
 
 ```bash
 pip install biopython nltk pandas openai matplotlib
+'''
 
 ## Scripts
 This repository contains a single Python script that performs several operations:
